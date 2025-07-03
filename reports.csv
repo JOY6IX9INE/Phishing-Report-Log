@@ -1,0 +1,2 @@
+ID,Date,Target,Phishing URL,Obfuscated URL,Hosting Provider,Reported To,Status,Tools Used,Notes
+1,2025-07-03,Riot Games,https://riotgames-login-support.com,hxxps://riotgames-login-support[.]com,Cloudflare,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"WHOIS, VirusTotal","Fake login page with Riot branding. SSL valid. Report submitted."
