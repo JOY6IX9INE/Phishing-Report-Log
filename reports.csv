@@ -1,2 +1,5 @@
-ID,Date,Target,Phishing URL,Obfuscated URL,Hosting Provider,Reported To,Status,Tools Used,Notes
-1,2025-07-03,Riot Games,https://riotgames-login-support.com,hxxps://riotgames-login-support[.]com,Cloudflare,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"WHOIS, VirusTotal","Fake login page with Riot branding. SSL valid. Report submitted."
+Date,Type,Target,Phishing URL,Obfuscated URL,Hosting Provider,Reported To,Status,Tools Used,Notes
+2025-07-03,Phishing,Riot Games,https://riotgames-login-support.com,hxxps://riotgames-login-support[.]com,Cloudflare,"Cloudflare, Riot Games",Reported,"WHOIS, VirusTotal","Fake login page stealing Riot credentials."
+2025-07-04,Scam,Bitcoin Giveaway,https://freebtc-claim.net,hxxps://freebtc-claim[.]net,Cloudflare,"Cloudflare, Google Safe Browsing",Reported,"DNS check, Manual Analysis","Fake Elon Musk giveaway scam."
+2025-07-05,Phishing,PayPal,https://paypal-account-security.com,hxxps://paypal-account-security[.]com,Namecheap,"Namecheap, PayPal",Reported,"WHOIS, VT, Screenshots","Phishing page mimicking PayPal login."
+2025-07-06,Scam,Tech Support,https://microsoft-help-fast.com,hxxps://microsoft-help-fast[.]com,Cloudflare,"Cloudflare, Google Safe Browsing",Reported,"Browser analysis, WHOIS","Fake Windows alert with scam phone number."
