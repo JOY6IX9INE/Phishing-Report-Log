@@ -1,15 +1,17 @@
-# 🛡️ Phishing Report Log
+# 🛡️ Threat Report Log
 
-Welcome! This is an open record of phishing domains I’ve identified and reported as part of independent threat intelligence efforts.
+Welcome! This is an open record of phishing **and scam** domains I’ve identified and reported as part of independent threat intelligence efforts.
 
-> 📁 All phishing site data is stored in [`reports.csv`](./reports.csv)
+> 📁 All site data is stored in [`reports.csv`](./reports.csv)
 
 ---
 
 ## 🎯 Purpose
 
 This project aims to:
-- 🕵️ Identify active phishing domains impersonating real brands.
+- 🕵️ Identify malicious domains, including:
+  - 🎣 Phishing (login theft, impersonation)
+  - 💰 Scams (fake giveaways, crypto rug pulls, support scams)
 - 🧾 Document findings in a transparent, structured format.
 - 📤 Report threats to hosting providers, target companies, and global blocklists.
 
@@ -18,18 +20,28 @@ This project aims to:
 ## 📂 How It Works
 
 1. **Detect** suspicious domains manually or through feeds.
-2. **Investigate** using WHOIS, DNS, and site behavior.
+2. **Investigate** using WHOIS, DNS, site content, and network behavior.
 3. **Report** to:
-   - Hosting/infra providers (e.g., Cloudflare, Namecheap)
-   - Affected organizations (e.g., Riot Games, PayPal)
-   - Security feeds (Google Safe Browsing, APWG)
-4. **Log** in [`reports.csv`](./reports.csv)
+   - 🧰 Hosting/infra providers (e.g., Cloudflare, Namecheap)
+   - 🏢 Target organizations (e.g., Riot Games, PayPal)
+   - 🛡️ Global blocklists (Google Safe Browsing, APWG)
+4. **Log** everything in [`reports.csv`](./reports.csv)
+
+---
+
+## 🧾 What’s Tracked
+
+| Type      | Description                                           |
+|-----------|-------------------------------------------------------|
+| 🎣 Phishing | Login theft pages impersonating trusted brands        |
+| 💰 Scams    | Crypto scams, fake giveaways, fake support sites      |
+| 🧊 Others   | Any site designed to deceive or defraud users         |
 
 ---
 
 ## 🚀 Get Involved
 
-Have a suspicious domain?  
+Have a malicious site to report?  
 📬 Open an [issue](https://github.com/YOUR_USERNAME/phishing-report-log/issues) or email `you@example.com`.
 
 ---
@@ -38,9 +50,8 @@ Have a suspicious domain?
 
 - View or download [`reports.csv`](./reports.csv)
 - Import into Google Sheets or Excel
-- Analyze phishing trends or automate takedown flows
+- Analyze threat trends or automate takedown reports
 
 ---
 
 > _“Awareness is the first step toward security.”_
-
