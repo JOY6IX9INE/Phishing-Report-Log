@@ -39,12 +39,6 @@ This project aims to:
 
 ---
 
-## 🚀 Get Involved
-
-Have a malicious site to report?  
-📬 Open an [issue](https://github.com/YOUR_USERNAME/phishing-report-log/issues) or email `you@example.com`.
-
----
 
 ## 📈 Want to Explore the Data?
 
