@@ -1,5 +1,2 @@
 Date,Type,Target,Phishing URL,Reported To,Status,Notes
-2025-07-03,Phishing,Riot Games,https://riotgames-login-support.com,"Cloudflare, Riot Games",Reported,"Fake login page stealing Riot credentials."
-2025-07-04,Scam,Bitcoin Giveaway,https://freebtc-claim.net,"Cloudflare, Google Safe Browsing",Reported,"Fake Elon Musk giveaway scam."
-2025-07-05,Phishing,PayPal,https://paypal-account-security.com,"Namecheap, PayPal",Reported,"Phishing page mimicking PayPal login."
-2025-07-06,Scam,Tech Support,https://microsoft-help-fast.com,"Cloudflare, Google Safe Browsing",Reported,"Fake Windows alert with scam phone number."
+2025-07-03,Phishing,Riot Games,https://riotgift.cc/,"Cloudflare, Riot Games",Reported,"Phishing site offering fake bundle rewards. Login page at /auth/link uses a modified hCaptcha bypass to intercept 2FA codes and gain full account access."
