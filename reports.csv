@@ -1,2 +1,2 @@
 Date,Type,Target,Phishing URL,Reported To,Status,Notes
-2025-07-03,Phishing,Riot Games,https://riotgift[.]cc/,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"Fake Riot site with login page stealing credentials and 2FA."
+2025-07-03,Phishing,Riot Games,https://riotgift[.]cc/,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"Fake Riot site with login page stealing credentials and 2FA"
