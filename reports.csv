@@ -1,2 +1,2 @@
 Date,Type,Target,Phishing URL,Reported To,Status,Notes
-2025-07-03,Phishing,Riot Games,https://riotgift[.]cc/,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"Phishing site offering fake bundle rewards. Login page at /auth/link uses a modified hCaptcha bypass to intercept 2FA codes and gain full account access."
+2025-07-03,Phishing,Riot Games,https://riotgift[.]cc/,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"Phishing site impersonating Riot Games. Uses fake bundle offer and custom login page to steal credentials and 2FA codes."
