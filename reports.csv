@@ -1,3 +1,5 @@
 Date,Type,Target,Phishing URL,Reported To,Status,Notes
 2025-03-25,Scam,Gambling Website,https://tafcas[.]com,"Cloudflare, Google Safe Browsing",Reported,"Fake gambling site, tricks users into paying a activation fee for kyc & withdrawal"
 2025-07-04,Phishing,Riot Games,https://riotgift[.]cc/auth/link,"Cloudflare, Riot Games, Google Safe Browsing",Reported,"Fake Riot site with login page stealing credentials and 2FA"
+2025-07-06,Scam,Gambling Website,https://tepeport[.]com,"Cloudflare, Google Safe Browsing",Reported,"Fake gambling site, tricks users into paying a activation fee for kyc & withdrawal"
+2025-07-06,Scam,Gambling Website,https://trustspins[.]com,"Cloudflare, Google Safe Browsing",Reported,"Fake gambling site, tricks users into paying a activation fee for kyc & withdrawal"
